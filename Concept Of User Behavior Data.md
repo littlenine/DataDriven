@@ -1,7 +1,7 @@
 # Product Engagement Score (PES)
 
-The product engagement score (PES) is a metric that provides a singular view into how users are interacting with your product. 
-It is a composite score, made up of three elements:
+The product engagement score (PES) 是一種觀察使用者與你的產品互動的指標.  
+公式: [Feature adoption + App retention + Stickiness] / 3
 
 - *Feature adoption*: The percentage of features that generate 80% of click volume
 - *App retention*: The percentage of users retained in the first three months of usage
@@ -9,27 +9,11 @@ It is a composite score, made up of three elements:
 
 ![](https://www.pendo.io/wp-content/uploads/2020/10/Product_engagement_score_PES_example.jpg)
 
-## How can I improve my product engagement score?
-1. Identify high-value features
-2. Make your product part of your users’ workflow
-> 透過了解使用者的操作流程, 觀察需求, 試著量化使用資料.  你的最終目標是讓使用者可以更頻繁地使用, 因此要找出使用者痛點,直接把處理方式展示給使用者看
-3. Invest in onboarding
-> 觀察使用者如何上來使用產品, 一種策略是提供訓練跟資源, 教使用者如何使用產品功能  
-> 學習路程要保持簡單, 並提供不同的學習途徑, 第一印象的重要會直接影響使用者是否停留在此平台.  
-> onboarding重點在新的使用者轉為熟練的使用者的過程, 知道如何使用產品找到答案, 
-> 會從三個面向觀察(Self discovery,Human assisted, Automated in-app)  
-> - Self discovery: aka every new user for themself — the customer navigates the product on their own without any guidance.  
-> - Human assisted: users are onboarded to the product with in-person training sessions and/or educational content.  
-> - Automated in-app: this strategy meets users where they are and provides onboarding walkthroughs and training within the app itself.  
->
-> 延伸閱讀：[何謂onboarding](https://www.pendo.io/pendo-blog/what-is-onboarding/)?  
-
 ## Core-elements of PES
 好的使用metrics必須包含下面三種特型
 - Measurable: easy to obtain, without heavy lifting to get the right data
 - Readable: easy to understand, without needing special context to interpret
 - Relevant: aligned with key business goals (e.g. If you move the number, will it result in positive change?)
-
 
 ### Stickiness
 使用者黏著度意味著產品價值與客戶感受價值的吻合程度, 指標上可用daily active user, weekly active user, monthly active user來觀測  
@@ -45,18 +29,46 @@ Ref：[use-stickiness-ratio-measure-product-health](https://www.pendo.io/pendo-b
 Ref：[DAU,WAU,MAU](https://www.pendo.io/glossary/daily-active-users-dau/)
 
 
-### Feature adoption
-https://www.pendo.io/glossary/product-and-feature-adoption/
+### Product adaption / Feature adoption
+#### Product adaption
+用來測量網站或app的指標. 有3種計量方法  
+1. 某段時間的量值, ex MAU
+2. 計量與新註冊的比值, Monthly Product Adoption Rate (%) = [new MAU / monthly signups] * 100.
+3. 用stickness, 直接用量值表示在某段時間內登入的使用者個數  
 
-> 02 Product Usage
-Are my users and customers engaging with the product as expected?
-With any product, some features will inevitably emerge as your most popular and most used, while other features will inevitably sink to the bottom (and sometimes not the ones you’d expect). That’s why it’s so crucial to measure product usage. As a product leader, it allows you to diagnose the parts of your product that need the most attention so you can work with your team to make improvements.
+此metractic和onboarding息息相關, 如果使用者無法再onboarding階段習得使用方式, 便無法促使他們使用產品  
 
-For best results, you need to build a plan for each of your features, paying special attention to those with the lowest engagement. In some cases, you may discover that adoption could potentially take off with a little more promotion and awareness. In other cases, a redesign might be in order. And still in other cases, the best course of action may be to sunset a feature altogether.
 
-Ultimately, whatever changes you decide to make (or not make) to your features, it all starts with understanding usage. You need data to steer you in the direction of where the product experience is delivering—and where it’s falling short.
+#### Feature adoption
+同樣的概念可套用在觀察不同的功能, 一個產品一定會有熱門功能, 觀測此metrics可幫助開發目標, 有時藉由promotion來幫助使用者使用特定功能, 或觀察是否淘汰特定功能
+Monthly Feature Adoption Rate (%) = [feature MAU / monthly logins] * 100.  
+
+Ref: [product-and-feature-adoption](https://www.pendo.io/glossary/product-and-feature-adoption/)
 
 ### App retention (Growth)
 
+Ref: [user-retention](https://www.pendo.io/glossary/user-retention/)
 
+### Important of Onboarding
+onboarding重點在新的使用者轉為熟練的使用者的過程, 知道如何使用產品找到答案, 著重下面四點  
+1. Quickly explains how the product works and its use cases
+2. Conveys the product’s benefits and differentiation
+3. Highlights and guides users to the most valuable features
+4. Prompts users to come back to the product over and over
 
+測量上從三個面向觀察(Self discovery,Human assisted, Automated in-app)  
+- Self discovery: aka every new user for themself — the customer navigates the product on their own without any guidance.  
+- Human assisted: users are onboarded to the product with in-person training sessions and/or educational content.  
+- Automated in-app: this strategy meets users where they are and provides onboarding walkthroughs and training within the app itself.  
+
+延伸閱讀：[何謂onboarding](https://www.pendo.io/pendo-blog/what-is-onboarding/)?  
+
+------------
+
+## How can I improve my product engagement score?
+1. Identify high-value features
+2. Make your product part of your users’ workflow
+> 透過了解使用者的操作流程, 觀察需求, 試著量化使用資料.  你的最終目標是讓使用者可以更頻繁地使用, 因此要找出使用者痛點,直接把處理方式展示給使用者看
+3. Invest in onboarding
+> 觀察使用者如何上來使用產品, 一種策略是提供訓練跟資源, 教使用者如何使用產品功能  
+> 學習路程要保持簡單, 並提供不同的學習途徑, 第一印象的重要會直接影響使用者是否停留在此平台.  
