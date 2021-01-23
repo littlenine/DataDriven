@@ -59,6 +59,17 @@ Monthly Feature Adoption Rate (%) = [feature MAU / monthly logins] * 100.
 
 Ref: [product-and-feature-adoption](https://www.pendo.io/glossary/product-and-feature-adoption/)
 
+### 82定則：Pareto Principle
+通常產品有80%的使用會落在20％的功能上, 對此我們會提出幾個問題
+> 客戶最常使用的功能是我們認為最有用的功能嗎？ 
+> 用戶為什麼要在這些方面花費那麼多時間？ 
+> 哪些工作流程需要最多的工作？ 
+
+功能採用分析可識別最重要的功能，並集中精力改進對用戶群影響最大的區域。  
+通過這個鏡頭來查看用法，可以挑戰各種假設，為進一步深入的研究提供起點。  
+有些功能可能最終只服務特定使用者, 或者觀察到該退休的功能
+
+Red: [feature-adoption-analytics](https://www.pendo.io/product/features/feature-adoption-analytics/)
 
 --- 
 
