@@ -20,7 +20,7 @@ The product engagement score (PES) 是一種觀察使用者與你的產品互動
 
 常見指標：日活躍使用者(daily active user), 週活躍使用者(weekly active user), 月活躍使用者(monthly active user)  
 可用比例來觀測,如 DAU/MAU 或 WAU/MAU  
-> 25%黏著度: 在每個月只少使用一次產品的使用者中,有1/4每天都至少使用一次
+> 25%黏著度: 在每個月至少使用一次產品的使用者中,有1/4每天都至少使用一次
 ![](https://www.pendo.io/wp-content/uploads/2019/07/Pendo_eBook_10KPIs_Image_DAUMAU.png)  
 
 當然不同的產品會有不一樣的使用情境, 不是每天都上來看就代表有用, 要找到自己產品的頻率, 可思考下面兩題  
@@ -29,6 +29,10 @@ The product engagement score (PES) 是一種觀察使用者與你的產品互動
   
 Ref：[use-stickiness-ratio-measure-product-health](https://www.pendo.io/pendo-blog/use-stickiness-ratio-measure-product-health/)  
 Ref：[DAU,WAU,MAU](https://www.pendo.io/glossary/daily-active-users-dau/)
+
+### 實戰上的問題
+因為不同的feature特性不同, 在定義"活躍"上可能有落差
+像是"使用量級到底重不重要"等問題, 每天用一次就當他有用, 或是要用到幾次才算？
 
 ----
 
