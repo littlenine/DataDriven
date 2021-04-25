@@ -111,6 +111,19 @@ Once you’ve created segments, keep an eye out for common mistakes that markete
 ### Loyal Customers
 您可以分析數據以查看客戶何時成為忠實客戶，在客戶流失之前進行了多少次購買，或者只是決定在第三次購買後將客戶視為忠實客戶  
 
+#### How do You Measure Customer Loyalty?
+https://www.customerinsightgroup.com/loyaltyblog/how-do-you-define-customer-loyalty/
+- Total Membership
+- Customer Lifetime Value
+- Net Promoter Score
+- Redemption Rate
+- Active Engagement Ratio
+- Breakage Rate
+- Participation Rate
+- Retention Rate
+- Repeat Purchase Rate
+- RFM (Recency, frequency, monetary value)
+
 ###  Purchaser with a higher/lower-than-average order value
 識別出較高的支出者和低於平均水平的支出者有助於根據不同的客戶需求定制您的消息傳遞。  
 像是AOV低的提供折扣, 等想辦法提高其AOV; 高AOV的提供其他特殊服務等等。  
