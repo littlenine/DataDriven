@@ -21,22 +21,21 @@ https://blog.remesh.ai/5-types-of-market-segmentation-how-to-use-them
 從市場細分工作中獲得的見解可以幫助營銷團隊創建量身定制的消息，以加強活動溝通。最重要的是，市場細分洞察力使團隊可以做出更多有計劃的決策，從而最終減少媒體支出並提高活動的成本效益。 
 
 ### How?
-1.設定目標  
-市場細分過程的目的是什麼？確定客戶細分模型和變量（以及適用於您特定市場的細分）和變量，然後根據這些發現得出假設。
-
-2.確定客戶群  
-建立研究設計，收集數據，分析結果並開發細分。此步驟將部分驗證或反駁您的假設。
-
-3.評估目標細分  
-有許多潛在的消費者可以選擇。為了細分市場，您必須選擇最可行的選擇，然後從那裡向前移動產品。 
-將此步驟視為對您未來客戶群的服務。確定最具體的用例，您的公司將能夠提供更加個性化的產品或服務。將您的公司視為一種資源，而不是賣點。
-市場細分的這一步驟可以通過多種方式執行。一個網上焦點小組是發現新的細分一個快速和有效的方式。像Remesh這樣的平台也可以用來挖掘已有的客戶群。
-
-4.制定市場細分策略  
-選擇您的目標細分，並確定該細分或角色的含義。根據目標細分，項目目標，市場可行性和產品狀態進行行動。使用Powerpoint模板可以有效地捕獲和展示您的市場細分策略。
-
-5.確定啟動計劃  
-確定主要的利益相關者，在內部構思和溝通啟動計劃，然後使用您的目標細分市場執行項目。
+https://clevertap.com/blog/customer-segmentation-examples-for-better-mobile-marketing/
+1. 了解您的用戶。
+> 它們來自什麼獲取渠道？他們為什麼以及如何使用您的應用程序？您的解決方案如何解決他們的痛點？盡可能多地了解當前的客戶群及其應用使用習慣。
+2. 不要太具體。
+> 傳播專家弗蘭克·盧比（Frank Luby）提出了他的“三個形容詞規則”：如果您不能用三個形容詞來描述您的細分，那就太複雜了。
+> 相較於“過去24小時內收聽過“波西米亞狂想曲”的用戶”，“遵循80年代搖滾播放列表的用戶”等細分受眾群更具可操作性。
+> 畢竟，細分市場必須足夠大，因此針對這些細分市場值得付出努力。
+3. 設定優先目標。
+> 創建幾個細分後，為每個細分定義一個目標。這樣，您可以保證您的用戶群是可操作的，並且您的營銷工作和參與活動與特定的，可衡量的業務目標相關。
+4. 測試和優化。
+> 關鍵客戶群在做什麼？沒什麼 A / B或多變量測試對於完善您的營銷策略和實現（甚至超過！）廣告系列目標至關重要。
+5. 重新訪問您的細分。
+> 您不能採用“一勞永逸”的細分方法。您的用戶將隨著時間的流逝而發展-無論他們是誰，以及他們如何使用您的應用程序。
+> 定期重新查看您的細分策略，並尋找規模，行為和參與度方面的變化。您當前的消息傳遞是否仍在每個細分市場引起共鳴，還是您需要更新方法？
+> 確定主要的利益相關者，在內部構思和溝通啟動計劃，然後使用您的目標細分市場執行項目。
 
 
 ### Common Segmentation Mistakes to Avoid
@@ -95,6 +94,70 @@ Once you’ve created segments, keep an eye out for common mistakes that markete
 - 規模和員工人數
 - 所有權（公共，私人，政府等）
 - 組織趨勢
+
+------
+
+## Customer Segmentation
+一個簡單的客戶區分方法
+- First-time purchaser 初次購買者
+- Loyal Customers 忠實的客戶
+- Purchaser with a higher/lower-than-average order value 購買者的訂單價值高於/低於平均水平
+- Lapsed-Purchase 失效的購買者
+- Unengaged email subscribers 未參與的電子郵件訂閱者
+
+### First-time purchaser
+一是群需要進一步栽培的對象, 有機會轉為忠誠客戶, 研究顯示"購買後的email"的有效轉化率比促銷信件高200%
+
+### Loyal Customers
+您可以分析數據以查看客戶何時成為忠實客戶，在客戶流失之前進行了多少次購買，或者只是決定在第三次購買後將客戶視為忠實客戶  
+
+###  Purchaser with a higher/lower-than-average order value
+識別出較高的支出者和低於平均水平的支出者有助於根據不同的客戶需求定制您的消息傳遞。  
+像是AOV低的提供折扣, 等想辦法提高其AOV; 高AOV的提供其他特殊服務等等。  
+
+### Lapsed-Purchase
+https://www.omnisend.com/blog/lapsed-purchase/  
+https://granicus.com/blog/conversion-method-1-lapsed-buyer-campaigns/  
+
+#### How to Identify a Lapsed-Purchaser?
+失敗的客戶的定義會因產品而異, 客戶的旅程會根據季節，促銷，產品，價格等因素而變化。
+有以下動作要做:
+1. Determining When a Customer Becomes a Lapsed-Purchaser
+目的在於確認甚麼東西失誤了, 可走RFM分析  
+您可以將每個客戶的購買日期放入excel電子表格，並找到所有客戶的平均購買時間。使用您的客戶數據，計算第一次購買和第二次購買之間的平均時間。然後為第二到第三計算。然後是第3到第4。
+
+它不僅會向您顯示兩次購買之間的平均時間，而且還會顯示出客戶對您的品牌更加忠誠時的平均時間。  
+例如，如果您發現首次購物的平均間隔是35天，那麼您希望提前28週左右（大約28天）開始發送廣告系列，他們消失之前回來。  
+對於第二次客戶，也許您的平均值要少一點-28天。然後，您將在21天左右開始製作廣告系列。  
+這樣，您可以根據忠誠度和購買時機來個性化針對各種客戶的廣告系列。  
+
+2. Segment Your Lapsed-Purchasers
+離去客戶的原因有很多, 因此要再細分過  
+Segmentation is pretty straightforward: 
+- by adapting your campaign to target customers based on whether they’re a first-time customer (lapsed-purchaser at 35 days) or 
+- a second-time customer (lapsed-purchaser by 28 days)
+
+3. Action
+- 決定是否提供激勵措施
+> 對於您的品牌，產品或失效購買者而言，提供購買動機可能並不總是最好的主意。 
+> 例如，您的一次性客戶可能不一定值得他們獲得的折扣，特別是如果他們的AOV較低。為客戶貶低您的產品是沒有意義的，這可能是一次性的。 
+> 但是，具有較高AOV和購買頻率的客戶可能值得增加這筆交易，特別是如果他們傾向於大筆消費時。
+- 在信件title講明目的( Be clear in your subject lines/offers )
+> 避免聯信都不看了
+- 讓顧客覺得他們很重要
+- 在每個訊息都增加價值
+> We miss you! Come back and shop   (X)
+> We miss you–and we don’t want you to miss our 50% off sale.  (V)
+- 把握時間
+> 使用購買頻率分析，您可以知道客戶何時開始變得冷淡。了解兩次購買之間的平均時間可以使您在正確的時間發送消息，而不是依賴於任意時間線，這對您的品牌或客戶而言毫無意義。
+> 它還使您可以主動地定位客戶，並在客戶流失之前預測他們的需求。
+> 另一方面，當您的一個客戶進入失效購買活動時，請確保他們沒有收到其他自動化和促銷活動。 
+- 適量數量的消息
+> 對於失效購買活動，僅發送一條消息並不總是足以使他們重新購買。大多數失效購買活動是一系列2-4條消息。
+
+### Unengaged email subscribers
+其中的某些人還是會變得不參與。通常，每月約佔數據庫的百分之二到三。  
+您的任務是在它們變為非活動狀態後對其進行標識，然後重新啟用它們或從您的訂戶數據庫中取消訂閱。  
 
 ------
 
@@ -224,15 +287,33 @@ rfm.head()
 ------
 
 ## AOV (Average Order Value), CLTV(Customer Lifetime Value)
+https://emarsys.com/learn/blog/aov-vs-cltv/  
 Which KPI is most important when it comes to measuring marketing success: average shopping cart amount or long-term worth of a customer?  
 兩者都是重要的e-commerce KPI指標, 看你使用的情境與產業來判斷
 
-### What's Average Order Value (AOV) & when is it best used?
-AOV是即時指標, 用於衡量在定義的時間段內與商家下的每筆訂單的平均總數, 是一種更具情境性的事務性度量。
-可以通過向上銷售和交叉銷售來幫助最大限度地利用每個收入機會.
+### What's AOV & when is it best used?
+AOV是即時指標, 用於衡量在定義的時間段內與商家下的每筆訂單的平均總數, 是一種基於情況, 交易面的指標
+> Average Order Value (AOV) is an e-commerce metric that measures the average total of every order placed with a merchant over a defined period of time. AOV is one of the most important metrics for online stores to be aware of, driving key business decisions such as advertising spend, store layout, and product pricing.
+可以通過向上銷售和交叉銷售來幫助最大限度地利用每個收入機會.  
 **Average Order Value = Revenue / Number of transactions**  
 
-使用情境:  
-- 描述一組客戶
-- 定義segment market
-- 
+When is it best used:  
+> AOV is best used when describing transactional value of a group of customers, a defined segment, or an individual consumer
+> 
+
+###  What's CLTV & when is it best used?
+CLTV是長期指標, 用於預測歸因於與客戶的整個未來關係的淨利潤.  
+CLTV提供了“對未來的展望”，使您對特定客戶或細分市場的滾雪球效應有了一個很好的了解。  
+因此，與AOV相比，它更具不確定性，因為基於當前的轉換，AOV是黑白的，固定在石頭上。  
+CLTV缺乏確定性，可通過幫助您了解增長和收入並創建對預期價值的明智評估來彌補。  
+  
+**Customer Lifetime Value = Customer Revenue – Cost of Acquiring and Servicing Customer**
+
+### Which one is more important?
+AOV可以了解特定時間內的增長並判斷廣告效果, 是短期交易的好指標  
+而長期來看, CLTV才能說明長期收入增長  
+兩者結合起來, 可以走向Customer Lifecycle Marketing (https://emarsys.com/learn/blog/lifecycle-marketing/)
+
+----
+
+
