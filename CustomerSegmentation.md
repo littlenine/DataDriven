@@ -156,12 +156,14 @@ Segmentation is pretty straightforward:
 > 例如，您的一次性客戶可能不一定值得他們獲得的折扣，特別是如果他們的AOV較低。為客戶貶低您的產品是沒有意義的，這可能是一次性的。 
 > 但是，具有較高AOV和購買頻率的客戶可能值得增加這筆交易，特別是如果他們傾向於大筆消費時。
 - 在信件title講明目的( Be clear in your subject lines/offers )
-- ![](https://github.com/littlenine/DataDriven/blob/6b4def5c487d97f0aa40db1c17db7d520b7c18dc/Be%20clear%20in%20your%20subject.png)
 > 避免聯信都不看了
+> ![](https://github.com/littlenine/DataDriven/blob/525d8be70c281bbd56a6c8e827f1a6ec8ea4641c/Be%20clear%20in%20your%20subject%20lines_2.png)
+> ![](https://github.com/littlenine/DataDriven/blob/525d8be70c281bbd56a6c8e827f1a6ec8ea4641c/Be%20clear%20in%20your%20subject%20lines_3.png)
 - 讓顧客覺得他們很重要
 - 在每個訊息都增加價值
 > We miss you! Come back and shop   (X)
 > We miss you–and we don’t want you to miss our 50% off sale.  (V)
+> ![](https://github.com/littlenine/DataDriven/blob/6b4def5c487d97f0aa40db1c17db7d520b7c18dc/Be%20clear%20in%20your%20subject.png)
 - 把握時間
 > 使用購買頻率分析，您可以知道客戶何時開始變得冷淡。了解兩次購買之間的平均時間可以使您在正確的時間發送消息，而不是依賴於任意時間線，這對您的品牌或客戶而言毫無意義。
 > 它還使您可以主動地定位客戶，並在客戶流失之前預測他們的需求。
