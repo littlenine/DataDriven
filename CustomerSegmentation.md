@@ -164,6 +164,7 @@ Segmentation is pretty straightforward:
 > We miss you! Come back and shop   (X)
 > We miss you–and we don’t want you to miss our 50% off sale.  (V)
 > ![](https://github.com/littlenine/DataDriven/blob/6b4def5c487d97f0aa40db1c17db7d520b7c18dc/Be%20clear%20in%20your%20subject.png)
+> ![](https://github.com/littlenine/DataDriven/blob/8e6fa179eee1b04461e6577087bc58e09497825c/Be%20clear%20in%20your%20subject_4.png)
 - 把握時間
 > 使用購買頻率分析，您可以知道客戶何時開始變得冷淡。了解兩次購買之間的平均時間可以使您在正確的時間發送消息，而不是依賴於任意時間線，這對您的品牌或客戶而言毫無意義。
 > 它還使您可以主動地定位客戶，並在客戶流失之前預測他們的需求。
