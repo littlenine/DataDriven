@@ -156,6 +156,7 @@ Segmentation is pretty straightforward:
 > 例如，您的一次性客戶可能不一定值得他們獲得的折扣，特別是如果他們的AOV較低。為客戶貶低您的產品是沒有意義的，這可能是一次性的。 
 > 但是，具有較高AOV和購買頻率的客戶可能值得增加這筆交易，特別是如果他們傾向於大筆消費時。
 - 在信件title講明目的( Be clear in your subject lines/offers )
+- ![](https://github.com/littlenine/DataDriven/blob/6b4def5c487d97f0aa40db1c17db7d520b7c18dc/Be%20clear%20in%20your%20subject.png)
 > 避免聯信都不看了
 - 讓顧客覺得他們很重要
 - 在每個訊息都增加價值
