@@ -329,4 +329,6 @@ AOV可以了解特定時間內的增長並判斷廣告效果, 是短期交易的
 
 ----
 
+## Machine Learning Ways!!
+https://www.kaggle.com/fabiendaniel/customer-segmentation/notebook
 
