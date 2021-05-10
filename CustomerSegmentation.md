@@ -77,23 +77,64 @@ Once you’ve created segments, keep an eye out for common mistakes that markete
 
 #### 2. Psychographic Segmentation: A Customer’s Lifestyle 
 心理狀態上會觀察: liftstyle, opinions, interests, values
+- Habits
+- Hobbies, activities, or interests
+- Values or opinions
+- Personality or attitude
+- Lifestyle
+- Social status
+
+##### HOW?
+1. Interview existing customer
+- How likely are you to purchase Company X’s sneaker again? 
+- If you like Sneaker X, would you try Hoodie Y from the same company? 
+- What do you enjoy about running? 
+- Walk me through your running routine.
+2. Observe customer data
+- Where are your consumers on the internet? 
+- How can you use their Instagram or Pinterest clicks to better market your products? 
+- What niche marketing strategies can you tap into?
 
 #### 3. Demographic Segmentation: A Customer’s Profile
 客戶個人資料: Income, Gender, Religion, Education
 
+人口特性是您的客戶角色在市場中針對年齡或性別之類的粗略特徵的細分。 這些特徵提供有關您的客戶的基本信息，通常被認為是更廣泛的細分類型之一。   
+人口細分的示例包括年齡，收入，家庭規模，教育程度或性別。  
+  
+深入研究這些細分，以節省時間和資源來了解您的目標受眾。 或者，挖掘尚未磨合的潛在消費者。 人口統計學通常比其他細分類型更具侵略性。   
+  
+- Occupation
+- Marital status
+- Political party status 
+- Race
+- Religion
+- Living status (if your subject is a homeowner or renter)
+
 #### 4. Geographic Segmentation: A Customer’s Home
+地理位置是根據客戶的實際地理位置對客戶進行的研究，這可能會影響市場中更多的實際互動。  
+聚集在相似位置的消費者可能具有相似的偏好。 這就是為什麼這種類型的市場細分非常適合與更多抽像類型（例如行為）配對使用。  
+  
+-  City
+- State
+- Country
+- Population density
+- Economic status
+- Zip Code
+- Regional climate 
+
 #### 5. Firmographic Segmentation: The Customer’s Company
 包含產業別, sales volume, size, methodologies  
 公司人口統計對於公司和投資者而言就像人口統計對人一樣。公司可以使用這種細分來確定較小的公司是否適合投資。  
 在全球數以百萬計的公司中，企業可以使用公司信息圖根據規模，規模和資金來確定潛在客戶。  
 公司也可以分為以下幾個部分：
 非營利組織, 商業, 政府實體, 代理商, 小零售店, 獨立承包商  
-同時可觀察的其他變因包含:
+  
+切割範例:
 - 業績和年收入
 - 平均銷售週期
 - 規模和員工人數
 - 所有權（公共，私人，政府等）
-- 組織趨勢
+- 組織趨勢(組織發展的趨勢)
 
 ------
 
