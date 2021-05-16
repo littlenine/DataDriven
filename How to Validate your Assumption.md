@@ -121,6 +121,8 @@ Y事件失敗的機率 ![image](https://user-images.githubusercontent.com/391561
 > 公式 X^2 = SUM( (f_observed - f_expected)^2 / f_expected )
 
 - 適合度考驗(the test of goodness of fit)
+http://www3.nccu.edu.tw/~soci1005/Ch12.pdf  
+
 - 同質性考驗
 
 ### 自由度df(抽樣數)與建立臨界區
