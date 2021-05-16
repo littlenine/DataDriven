@@ -1,6 +1,10 @@
 # How to validate assumption for data research ?
 
+https://realpython.com/numpy-scipy-pandas-correlation-python/?fbclid=IwAR0nXm8vMiNUCTxQXgfECjE0tEIQw6d9OaamvIl7ZgUjkncWRcLElXJ-9Wo  
+  
 http://webftp.nkut.edu.tw/~092544/SPSS/25%E7%A8%AE%E7%B5%B1%E8%A8%88%E6%96%B9%E6%B3%95%E7%A7%98%E6%8A%80.pdf
+
+
 
 ## First Action (Scatter Plot)
 
@@ -25,6 +29,15 @@ ex. 指定性別部分以女性為參照組，運動前暖身以無暖身為參�
 
 ### 甚麼叫做 "有關係" ?
 如果自變數對應的依變數的機率分布會因為自變數取不同的值而機率分布不同, 說明兩者有關
+
+
+----
+
+## 方法分類  
+![image](https://user-images.githubusercontent.com/3915612/118391765-9ce46580-b668-11eb-93fb-60b1dc3c8779.png)  
+  
+  
+![image](https://user-images.githubusercontent.com/3915612/118391806-c7362300-b668-11eb-9ee4-4413c68e5711.png)
 
 
 ----
@@ -108,10 +121,24 @@ Y事件失敗的機率 ![image](https://user-images.githubusercontent.com/391561
 > 公式 X^2 = SUM( (f_observed - f_expected)^2 / f_expected )
 
 - 適合度考驗(the test of goodness of fit)
+- 同質性考驗
+
+### 自由度df(抽樣數)與建立臨界區
+卡方機率分配的圖形依照自由度的不同畫出  
+![image](https://user-images.githubusercontent.com/3915612/118392165-b686ac80-b66a-11eb-984d-ffa629722078.png)  
+    
+df = ( num(列)-1 ) * ( num(行)-1 )  
+依照需求決定自由度與對應的臨界區 (可能df=4, 信賴臨界值97.5%; df=5, 臨界值95%)  
+![image](https://user-images.githubusercontent.com/3915612/118392269-580dfe00-b66b-11eb-87b8-22f603ca041d.png)  
+
+此時會獲得對照用的X^2_critical (=曲線下面積)  
 
 ### 假說檢定(Hypothesis Testing)
-建立假說H_0(兩變相獨立)與反向假說H_1(兩變相非獨立)
-如何驗證性別與教育程度有無關係?  
+建立假說H_0(兩變相獨立)與反向假說H_1(兩變相非獨立)  
+會造就下面結果表格  
+![image](https://user-images.githubusercontent.com/3915612/118392028-f1d4ab80-b669-11eb-82ee-521a95c8b0b7.png)
+  
+### EX. 如何驗證性別與教育程度有無關係?  
 
 1. 雙變項交叉表
 交叉表同時呈現出兩個不同變項間次數分配的情況。因此，雙變項交叉表可用來探索這兩個變項間是否有明顯的關係存在。  
@@ -130,5 +157,10 @@ Y事件失敗的機率 ![image](https://user-images.githubusercontent.com/391561
  
 - H_0: 當性別與教育程度無關時，大專程度的 40 人中，男生的比例會是 55%，而女生的比例就是 45%。
 > 依照公式 X^2 = SUM( (f_observed - f_expected)^2 / f_expected )  
-> (30-22)^2/22 + (10-18)^2/18 + (25-33)^2/33 + (35-27)^2/27 = 10.78
-
+> X^2_obtain = (30-22)^2/22 + (10-18)^2/18 + (25-33)^2/33 + (35-27)^2/27 = 10.78  
+  
+將獲得的X^2_obtain比較X^2_critical,  X^2_obtain > X^2_critical  
+表示兩者非獨立, 在你設定的df, 準確度條件下, 成立H_1
+  
+### 更多的卡方範例
+https://yashi4sale.pixnet.net/blog/post/45635923
