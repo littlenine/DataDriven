@@ -170,3 +170,8 @@ df = ( num(列)-1 ) * ( num(行)-1 )
   
 ### 更多的卡方範例
 https://yashi4sale.pixnet.net/blog/post/45635923
+
+-----
+
+# How to do correlation in Excel?
+https://www.statisticshowto.com/probability-and-statistics/excel-statistics/excel-regression-analysis-output-explained/
